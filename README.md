@@ -1,7 +1,7 @@
 ### Hello, everyone! 😺
 My name is Inna. I’m QA engineer. Currently, I'm interesting test automation and starting to apply automation in my work.
 I studied the tools and practices of test automation:
-<p align="left">
+<p align="center">
   <img title="Java" src="https://img.shields.io/badge/-Java-88855D?logo=java&style=flat">
   <img title="Selenide" src="https://img.shields.io/badge/-Selenide-64799B?logo=Selenide&style=flat">
   <img title="JUnit5" src="https://img.shields.io/badge/-JUnit5-88855D?logo=junit5&style=flatn&logoColor=white">
@@ -17,10 +17,14 @@ I studied the tools and practices of test automation:
  ![cat](cat.jpg)
 
 ### My projects
+<p align="center">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=FilesTests)](https://github.com/q-mi/FilesTests)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=JUnit5_Parameterized_Test)](https://github.com/q-mi/JUnit5_Parameterized_Test) <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=PageObject_JavaFaker)](https://github.com/q-mi/PageObject_JavaFaker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=Allure_GitHub_Tests)](https://github.com/q-mi/Allure_GitHub_Tests)
+
+</p>
 
 ### Statistics in GitHub
 
