@@ -12,7 +12,9 @@ I studied the tools and practices of test automation:
   <img title="Selenoid" src="https://img.shields.io/badge/-Selenoid-64799B?logo=Selenoid&style=flat">
   <img title="Docker" src="https://img.shields.io/badge/-Docker-88855D?logo=Docker&style=flat"> 
   <img title="REST Assured" src="https://img.shields.io/badge/-REST_Assured-64799B?logo=REST_Assured&style=flat">
- 
+  <img title="Appium" src="https://img.shields.io/badge/-Appium-88855D?logo=Appium&style=flat">
+  <img title="Cucumber" src="https://img.shields.io/badge/-Cucumber-64799B?logo=Cucumber&style=flat">
+
 ![cat](cat.jpg)
 
 </p>
