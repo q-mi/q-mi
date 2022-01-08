@@ -1,5 +1,5 @@
 ### Hello, everyone! 😺
-My name is Inna. I’m QA engineer. Currently, I'm interesting test automation and starting to apply automation in my work.
+My name is Inna. I’m QA engineer. Currently, I'm interesting test automation and starting to apply automation in my work.<br/>
 I studied the tools and practices of test automation:
 <p align="center">
   <img title="Java" src="https://img.shields.io/badge/-Java-88855D?logo=java&style=flat">
@@ -13,7 +13,6 @@ I studied the tools and practices of test automation:
   <img title="Docker" src="https://img.shields.io/badge/-Docker-88855D?logo=Docker&style=flat"> 
   <img title="REST Assured" src="https://img.shields.io/badge/-REST_Assured-64799B?logo=REST_Assured&style=flat">
   <img title="Appium" src="https://img.shields.io/badge/-Appium-88855D?logo=Appium&style=flat">
-  <img title="Cucumber" src="https://img.shields.io/badge/-Cucumber-64799B?logo=Cucumber&style=flat">
 
 ![cat](cat.jpg)
 
