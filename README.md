@@ -34,9 +34,11 @@ I studied the tools and practices of test automation:
 
 <details>	
   <summary><b>⚡Statistics in GitHub</b></summary>
+<p align="left">
 
 ![Inna's GitHub stats](https://github-readme-stats.vercel.app/api?username=q-mi&theme=onedark&show_icons=true&count_private=true&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q-mi&theme=onedark&count_private=true&layout=compact)
+</p>
 </details>
 
 ![](https://komarev.com/ghpvc/?username=yq-mi&label=profile+views&color=88855D)
