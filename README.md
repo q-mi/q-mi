@@ -1,6 +1,6 @@
-### Hello, everyone! 😺
+####  Hello, everyone! 😺
 My name is Inna. I’m QA engineer. Currently, I'm interesting test automation and starting to apply automation in my work.<br/>
-I studied the tools and practices of test automation:
+I studied the tools and practices of test automation: 
 <p align="center">
   <img title="Java" src="https://img.shields.io/badge/-Java-88855D?logo=java&style=flat">
   <img title="Selenide" src="https://img.shields.io/badge/-Selenide-64799B?logo=Selenide&style=flat">
@@ -18,8 +18,8 @@ I studied the tools and practices of test automation:
 
 </p>
 
-### My projects
-
+<details>	
+  <summary><b>⚡My projects</b></summary>
 <p align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=FilesTests)](https://github.com/q-mi/FilesTests)
@@ -28,19 +28,24 @@ I studied the tools and practices of test automation:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=Allure_GitHub_Tests)](https://github.com/q-mi/Allure_GitHub_Tests)
 
 </p>
+</details>
 
-### Statistics in GitHub
+<details>	
+  <summary><b>⚡Statistics in GitHub</b></summary>
 
 ![Inna's GitHub stats](https://github-readme-stats.vercel.app/api?username=q-mi&theme=onedark&show_icons=true&count_private=true&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q-mi&theme=onedark&count_private=true&layout=compact)
+</details>
 
 ![](https://komarev.com/ghpvc/?username=yq-mi&label=Profile+Views&color=88855D)
 ![](https://img.shields.io/github/followers/q-mi?style=flat&color=88855D)
 
-### Contacts
+---
+####  Contacts
 + [![Telegram](https://img.shields.io/badge/-Telegram-88855D?logo=telegram&style=flat)](https://t.me/ros_in)
 + [![Email](https://img.shields.io/badge/-Email-88855D?logo=gmail&style=flat)](mailto:4qa.info@gmail.com)
 
+Glad to see you here! <br/>
 If you want to give GitHub star ⭐ to any of my projects, I would be very grateful! 🥰
 
 ![](https://hit.yhype.me/github/profile?user_id=67098215)
