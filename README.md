@@ -6,13 +6,13 @@ I studied the tools and practices of test automation:
   <img title="Selenide" src="https://img.shields.io/badge/-Selenide-64799B?logo=Selenide&style=flat">
   <img title="JUnit5" src="https://img.shields.io/badge/-JUnit5-88855D?logo=junit5&style=flatn&logoColor=white">
   <img title="Gradle" src="https://img.shields.io/badge/-Gradle-64799B?logo=gradle&style=flat"> 
-  <img title="Apache Maven" src="https://img.shields.io/badge/-Apache Maven-64799B?logo=ApacheMaven&style=flat"> 
-  <img title="Allure Report" src="https://img.shields.io/badge/-Allure Report-88855D?logo=AllureReport&style=flat">
-  <img title="Jenkins" src="https://img.shields.io/badge/-Jenkins-64799B?logo=Jenkins&style=flatn&logoColor=white">
-  <img title="Selenoid" src="https://img.shields.io/badge/-Selenoid-88855D?logo=Selenoid&style=flat">
-  <img title="Docker" src="https://img.shields.io/badge/-Docker-64799B?logo=Docker&style=flat"> 
-  <img title="REST Assured" src="https://img.shields.io/badge/-REST_Assured-88855D?logo=REST_Assured&style=flat">
-  <img title="Telegram" src="https://img.shields.io/badge/-Telegram_(notifications)-64799B?logo=Telegram&style=flat">
+  <img title="Apache Maven" src="https://img.shields.io/badge/-Apache Maven-88855D?logo=ApacheMaven&style=flat"> 
+  <img title="Allure Report" src="https://img.shields.io/badge/-Allure Report-64799B?logo=AllureReport&style=flat">
+  <img title="Jenkins" src="https://img.shields.io/badge/-Jenkins-88855D?logo=Jenkins&style=flatn&logoColor=white">
+  <img title="Selenoid" src="https://img.shields.io/badge/-Selenoid-64799B?logo=Selenoid&style=flat">
+  <img title="Docker" src="https://img.shields.io/badge/-Docker-88855D?logo=Docker&style=flat"> 
+  <img title="REST Assured" src="https://img.shields.io/badge/-REST_Assured-64799B?logo=REST_Assured&style=flat">
+
 </p>
 
  ![cat](cat.jpg)
