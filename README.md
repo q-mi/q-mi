@@ -12,12 +12,13 @@ I studied the tools and practices of test automation:
   <img title="Selenoid" src="https://img.shields.io/badge/-Selenoid-64799B?logo=Selenoid&style=flat">
   <img title="Docker" src="https://img.shields.io/badge/-Docker-88855D?logo=Docker&style=flat"> 
   <img title="REST Assured" src="https://img.shields.io/badge/-REST_Assured-64799B?logo=REST_Assured&style=flat">
+ 
+![cat](cat.jpg)
 
 </p>
 
- ![cat](cat.jpg)
-
 ### My projects
+
 <p align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=FilesTests)](https://github.com/q-mi/FilesTests)
