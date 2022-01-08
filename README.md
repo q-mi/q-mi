@@ -22,11 +22,17 @@ I studied the tools and practices of test automation:
 <p align="left">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=FilesTests)](https://github.com/q-mi/FilesTests)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=JUnit5_Parameterized_Test)](https://github.com/q-mi/JUnit5_Parameterized_Test) <br/>
 </p>
 <p align="right">
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=JUnit5_Parameterized_Test)](https://github.com/q-mi/JUnit5_Parameterized_Test) <br/>
+</p>
+<p align="left">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=PageObject_JavaFaker)](https://github.com/q-mi/PageObject_JavaFaker)
+</p>
+<p align="right">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=Allure_GitHub_Tests)](https://github.com/q-mi/Allure_GitHub_Tests)
 </p>
 
