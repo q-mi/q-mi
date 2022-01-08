@@ -1,7 +1,6 @@
 ### Hello, everyone! 😺
-My name is Inna. I’m QA engineer and interesting test automation.
+My name is Inna. I’m QA engineer. Currently, I'm interesting test automation and starting to apply automation in my work.
 I studied the tools and practices of test automation:
-
 <p align="left">
   <img title="Java" src="https://img.shields.io/badge/-Java-88855D?logo=java&style=flat">
   <img title="Selenide" src="https://img.shields.io/badge/-Selenide-64799B?logo=Selenide&style=flat">
@@ -15,19 +14,21 @@ I studied the tools and practices of test automation:
   <img title="Telegram" src="https://img.shields.io/badge/-Telegram_(notifications)-64799B?logo=Telegram&style=flat">
 </p>
 
+ ![cat](cat.jpg)
+
 ### My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=FilesTests)](https://github.com/q-mi/FilesTests)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=JUnit5_Parameterized_Test)](https://github.com/q-mi/JUnit5_Parameterized_Test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=JUnit5_Parameterized_Test)](https://github.com/q-mi/JUnit5_Parameterized_Test) <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=PageObject_JavaFaker)](https://github.com/q-mi/PageObject_JavaFaker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=Allure_GitHub_Tests)](https://github.com/q-mi/Allure_GitHub_Tests)
 
 ### Statistics in GitHub
-![Inna's GitHub stats](https://github-readme-stats.vercel.app/api?username=q-mi&theme=onedark&show_icons=true&count_private=true)
-<p align="left">
+
+![Inna's GitHub stats](https://github-readme-stats.vercel.app/api?username=q-mi&theme=onedark&show_icons=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q-mi&theme=onedark&count_private=true&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=yq-mi&label=Profile+Views&color=88855D)
 ![](https://img.shields.io/github/followers/q-mi?style=flat&color=88855D)
-</p>
 
 ### Contacts
 + [![Telegram](https://img.shields.io/badge/-Telegram-88855D?logo=telegram&style=flat)](https://t.me/ros_in)
