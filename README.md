@@ -28,7 +28,7 @@ I studied the tools and practices of test automation:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=Allure_GitHub_Tests)](https://github.com/q-mi/Allure_GitHub_Tests)
 
 <p align="left">
-  <a href="https://github.com/q-mi?tab=repositories"><img width="115" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-88855D?&style=flat&logoColor=white&logo=repo"></a>
+  <a href="https://github.com/q-mi?tab=repositories"><img width="115" alt="All Repositories" title="All repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20repositories-88855D?&style=flat&logoColor=white&logo=repo"></a>
 </p>
 </details>
 
@@ -41,9 +41,9 @@ I studied the tools and practices of test automation:
 </p>
 </details>
 
-![](https://komarev.com/ghpvc/?username=yq-mi&label=profile+views&color=88855D)
-![](https://img.shields.io/github/followers/q-mi?style=flat&color=88855D)
-![](https://img.shields.io/github/last-commit/q-mi/q-mi?label=profile%20updated&style=flat&color=88855D)
+![](https://komarev.com/ghpvc/?username=yq-mi&label=Profile+views&color=88855D)
+![](https://img.shields.io/github/followers/q-mi?label=Followers&style=flat&color=88855D)
+![](https://img.shields.io/github/last-commit/q-mi/q-mi?label=Profile%20updated&style=flat&color=88855D)
 
 ---
 ####  Contacts
