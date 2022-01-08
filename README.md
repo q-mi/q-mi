@@ -27,6 +27,8 @@ I studied the tools and practices of test automation:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=PageObject_JavaFaker)](https://github.com/q-mi/PageObject_JavaFaker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=q-mi&theme=onedark&show_icons=true&repo=Allure_GitHub_Tests)](https://github.com/q-mi/Allure_GitHub_Tests)
 
+<p align="left">
+  <a href="https://github.com/q-mi?tab=repositories"><img width="115" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-88855D?&style=flat&logoColor=white&logo=repo"></a>
 </p>
 </details>
 
@@ -37,8 +39,9 @@ I studied the tools and practices of test automation:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q-mi&theme=onedark&count_private=true&layout=compact)
 </details>
 
-![](https://komarev.com/ghpvc/?username=yq-mi&label=Profile+Views&color=88855D)
+![](https://komarev.com/ghpvc/?username=yq-mi&label=profile+views&color=88855D)
 ![](https://img.shields.io/github/followers/q-mi?style=flat&color=88855D)
+![](https://img.shields.io/github/last-commit/q-mi/q-mi?label=profile%20updated&style=flat&color=88855D)
 
 ---
 ####  Contacts
@@ -49,3 +52,4 @@ Glad to see you here! <br/>
 If you want to give GitHub star ⭐ to any of my projects, I would be very grateful! 🥰
 
 ![](https://hit.yhype.me/github/profile?user_id=67098215)
+
