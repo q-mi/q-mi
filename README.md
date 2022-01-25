@@ -1,5 +1,5 @@
 ####  Hello, everyone! 😺
-My name is Inna. I am happy to welcome you on my GitHub page. I’m QA engineer. Currently, I'm interesting test automation and starting to apply automation in my work.<br/>
+My name is Inna. I am happy to welcome you on my GitHub page. I’m QA engineer. <br/> Currently, I'm interesting test automation and starting to apply automation in my work.<br/>
 I studied the tools and practices of test automation: 
 <p align="center">
   <img title="Java" src="https://img.shields.io/badge/-Java-88855D?logo=java&style=flat">
